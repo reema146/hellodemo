@@ -75,6 +75,6 @@
                 <enabled>false</enabled>
             </snapshots>
         </pluginRepository>
-    </pluginRepositories>//
+    </pluginRepositories>
 
 </project>
